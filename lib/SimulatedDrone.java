@@ -1,3 +1,4 @@
+package lib;
 import java.util.Scanner;
 
 //Author Name: Daniel McGee

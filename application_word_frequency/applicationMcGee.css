@@ -1,0 +1,16 @@
+.root { 
+	-fx-focus-color: transparent; 
+	-fx-faint-focus-color: transparent;
+}
+.gridCell{
+	-fx-background-color: black, white ;
+	-fx-background-insets: 0, 1 ;
+}
+.grid{
+	-fx-background-color: black, white ;
+	-fx-background-insets: 0, 1 ;
+	-fx-padding: 1;
+}
+.label{
+	-fx-padding: 5.0;
+}
